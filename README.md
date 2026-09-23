@@ -12,16 +12,6 @@ Explore the live report directly in your browser:
 
 ---
 
-## Key Insights
-
-- Dominance of Python: Python is the most popular programming language across all surveyed job roles by a wide margin, substantially outpacing R, C/C++, and other languages.
-- Salary Satisfaction Gap: Respondents reported a moderate Work/Life Balance score (5.74 out of 10), but satisfaction with Compensation remained markedly low (4.27 out of 10).
-- Compensation Hierarchy: Data Scientists lead in average reported compensation, closely followed by Data Engineers and Data Architects, while Data Analysts and Database Developers sit in the lower-to-mid salary tiers.
-- Entry Barriers: Over 67% of respondents felt breaking into the data industry was either neutral (42.7%) or difficult/very difficult (24.76% + 6.98%), indicating substantial perceived hurdles for entry-level talent.
-- Geographic Concentration: The majority of respondents are concentrated in the United States and India, followed by Canada and the United Kingdom.
-
----
-
 ## DAX Measures Used
 
 - Total Survey Takers: Aggregates total respondent count across the survey dataset.
@@ -36,13 +26,15 @@ Explore the live report directly in your browser:
 
 - Microsoft Power BI Desktop
 - Power Query: Data extraction, column splitting, null handling, and type casting.
-- DAX (Data Analysis Expressions): Key aggregation logic and metric cards.
+- DAX: Key aggregation logic and metric cards.
 - Excel Source Data: Survey response dataset.
 
 ---
 
-## How to Run Locally
+## Key Insights
 
-1. Clone or download this repository.
-2. Open Data Professional Survey Breakdown Project.pbix in Power BI Desktop.
-3. If prompted, refresh the data source and point it to the included Data Professional Survey Breakdown Dataset.xlsx workbook.
+- Dominance of Python: Python is the most popular programming language across all surveyed job roles by a wide margin, substantially outpacing R, C/C++, and other languages.
+- Salary Satisfaction Gap: Respondents reported a moderate Work/Life Balance score (5.74 out of 10), but satisfaction with Compensation remained markedly low (4.27 out of 10).
+- Compensation Hierarchy: Data Scientists lead in average reported compensation, closely followed by Data Engineers and Data Architects, while Data Analysts and Database Developers sit in the lower-to-mid salary tiers.
+- Entry Barriers: Over 67% of respondents felt breaking into the data industry was either neutral (42.7%) or difficult/very difficult (24.76% + 6.98%), indicating substantial perceived hurdles for entry-level talent.
+- Geographic Concentration: The majority of respondents are concentrated in the United States and India, followed by Canada and the United Kingdom.
